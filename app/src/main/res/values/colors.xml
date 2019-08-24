@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ca3649</color>
+    <color name="startColor">#820f63</color>
+    <color name="endColor">#fa4f38</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="rvcolor">#dadada</color>
+    <color name="songColor">#12447c</color>
+    <color name="color">#968b8d</color>
+
+    <color name="ripplecolor">#7A426B</color>
+    <color name="ripplecolor2">#F18F82</color>
+</resources>

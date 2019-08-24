@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="FullScreen" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="loginBtnSTyle">
+        <item name="android:background">@drawable/login_style</item>
+        <item name="android:textColor">@color/whiteColor</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:padding">0dp</item>
+
+    </style>
+
+
+
+    <style name="riple">
+        <item name="mrl_rippleOverlay">true</item>
+        <item name="mrl_rippleColor">@color/ripplecolor</item>
+        <item name="mrl_rippleAlpha">.3</item>
+    </style>
+    <style name="riple2">
+        <item name="mrl_rippleOverlay">true</item>
+        <item name="mrl_rippleColor">@color/ripplecolor2</item>
+        <item name="mrl_rippleAlpha">.3</item>
+    </style>
+</resources>
